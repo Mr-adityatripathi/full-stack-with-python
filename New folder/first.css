@@ -1,0 +1,11 @@
+body{
+  background-color: green;
+  color:red;
+  text-align:center;
+  border:40px solid yellow;
+  border-top: 0px;
+
+  #abc{
+    background-color: orange;
+    border-radius: 26px
+  }
